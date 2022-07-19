@@ -1,5 +1,15 @@
 # Dokken Changelog
 
+## 2.17.2 (2022-06-16)
+
+- Attempt to read ~/.docker/config.json for registry auths [@evandam](https://github.com/evandam)
+
+## 2.17.1 (2022-06-09)
+
+- Updated the Podman documentation [@damacus](https://github.com/damacus)
+- Added integration tests [@damacus](https://github.com/damacus)
+- Updated the chefsyle requirement
+
 ## 2.17.0 (2021-12-01)
 
 - Added authentication for private registries [@ashiqueps](https://github.com/ashiqueps)
